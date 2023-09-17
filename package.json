@@ -1,0 +1,36 @@
+{
+  "name": "namasthe-react",
+  "version": "1.0.0",
+  "description": "namasthe react by rajes",
+  "main": "App.js",
+  "scripts": {
+    "test": "test",
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAJESHKUMARVANKUDOTHU/namasthe-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "rajesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAJESHKUMARVANKUDOTHU/namasthe-react/issues"
+  },
+  "homepage": "https://github.com/RAJESHKUMARVANKUDOTHU/namasthe-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "parcel-bundler": "^1.12.5",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 Chrome version "
+  ]
+}

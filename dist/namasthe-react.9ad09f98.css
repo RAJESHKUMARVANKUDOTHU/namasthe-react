@@ -1,0 +1,60 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px black;
+    height: 60px;
+}
+
+.logo{
+width: 100px;
+height: 55px;
+}
+.nav-iteams{
+    color: cadetblue;
+}
+.nav-iteams >ul{
+    display: flex;
+    list-style-type: none;
+    padding: 0px 10px;
+}
+.nav-iteams >ul >li{
+    font-size: 14px;
+    padding: 10px;
+    margin: 10px;
+}
+.body{
+    border: solid 1px red;
+    height: 700px;
+}
+.res-logo{
+    height: 100px;
+width: 100%;
+    padding: auto;
+}
+.res-card{
+    width: 150px;
+    height: 500px;
+    padding: 15px;
+    margin: 5px;
+    box-shadow: 2px ;
+    border: solid 1px red;
+}
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.res-card:hover{
+   border: solid 3px yellow;
+   cursor: pointer;
+}
+.search{
+    padding: 10px;
+    border: solid 1px red;
+}
+.filter_btn{
+    padding: 10px;
+    cursor: pointer;
+}
+
+/*# sourceMappingURL=/namasthe-react.9ad09f98.css.map */
