@@ -18,3 +18,16 @@
 //normal javascript utilite functions
 //useState() ---- super power state variables
 //useEffect()
+
+//useEffect---normal function 
+
+//two parameters(call back fun, dependecy array)
+//1.when will call useeffect function 
+//ans: after component render
+
+
+
+
+two types of routing
+1) client side 
+2) server side routing
